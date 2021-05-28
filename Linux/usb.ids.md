@@ -590,18 +590,18 @@ This table is compiled from the [list of supported devices in Linux](https://git
 | [046d:081a](https://linux-hardware.org?id=usb:046d-081a) | Logitech             | Webcam C260                                   |
 | [046d:081b](https://linux-hardware.org?id=usb:046d-081b) | Logitech             | Webcam C310                                   |
 | [046d:0821](https://linux-hardware.org?id=usb:046d-0821) | Logitech             | HD Webcam C910                                |
-| [046d:0824](https://linux-hardware.org?id=usb:046d-0824) | Logitech             | Logitech Webcam C160                          |
+| [046d:0824](https://linux-hardware.org?id=usb:046d-0824) | Logitech             | Webcam C160                                   |
 | [046d:0825](https://linux-hardware.org?id=usb:046d-0825) | Logitech             | Webcam C270                                   |
 | [046d:082d](https://linux-hardware.org?id=usb:046d-082d) | Logitech             | HD Pro Webcam C920                            |
 | [046d:0840](https://linux-hardware.org?id=usb:046d-0840) | Logitech             | QuickCam Express                              |
 | [046d:0843](https://linux-hardware.org?id=usb:046d-0843) | Logitech             | Webcam C930e                                  |
-| [046d:0848](https://linux-hardware.org?id=usb:046d-0848) | Logitech             | Logitech ConferenceCam CC3000e                |
+| [046d:0848](https://linux-hardware.org?id=usb:046d-0848) | Logitech             | ConferenceCam CC3000e                         |
 | [046d:0850](https://linux-hardware.org?id=usb:046d-0850) | Logitech             | QuickCam Web                                  |
 | [046d:0853](https://linux-hardware.org?id=usb:046d-0853) | Logitech             | PTZ Pro Camera                                |
 | [046d:085c](https://linux-hardware.org?id=usb:046d-085c) | Logitech             | C922 Pro Stream Webcam                        |
 | [046d:0870](https://linux-hardware.org?id=usb:046d-0870) | Logitech             | QuickCam Express                              |
 | [046d:0890](https://linux-hardware.org?id=usb:046d-0890) | Logitech             | QuickCam Traveler                             |
-| [046d:0892](https://linux-hardware.org?id=usb:046d-0892) | Logitech             | OrbiCam                                       |
+| [046d:0892](https://linux-hardware.org?id=usb:046d-0892) | Logitech             | C920 HD Pro Webcam                            |
 | [046d:0896](https://linux-hardware.org?id=usb:046d-0896) | Logitech             | OrbiCam                                       |
 | [046d:0897](https://linux-hardware.org?id=usb:046d-0897) | Logitech             | QuickCam for Dell Notebooks                   |
 | [046d:089d](https://linux-hardware.org?id=usb:046d-089d) | Logitech             | QuickCam E2500 series                         |
@@ -623,7 +623,7 @@ This table is compiled from the [list of supported devices in Linux](https://git
 | [046d:08b3](https://linux-hardware.org?id=usb:046d-08b3) | Logitech             | QuickCam Zoom                                 |
 | [046d:08b4](https://linux-hardware.org?id=usb:046d-08b4) | Logitech             | QuickCam Zoom                                 |
 | [046d:08b5](https://linux-hardware.org?id=usb:046d-08b5) | Logitech             | QuickCam Sphere                               |
-| [046d:08b7](https://linux-hardware.org?id=usb:046d-08b7) | Logitech             | Logitech ViewPort AV100                       |
+| [046d:08b7](https://linux-hardware.org?id=usb:046d-08b7) | Logitech             | ViewPort AV100                                |
 | [046d:08b9](https://linux-hardware.org?id=usb:046d-08b9) | Logitech             | QuickCam IM                                   |
 | [046d:08c1](https://linux-hardware.org?id=usb:046d-08c1) | Logitech             | QuickCam Fusion                               |
 | [046d:08c2](https://linux-hardware.org?id=usb:046d-08c2) | Logitech             | QuickCam PTZ                                  |
@@ -805,6 +805,7 @@ This table is compiled from the [list of supported devices in Linux](https://git
 | [04c5:1058](https://linux-hardware.org?id=usb:04c5-1058) | Fujitsu              | FUJITSU USB Sync                              |
 | [04c5:1079](https://linux-hardware.org?id=usb:04c5-1079) | Fujitsu              | FUJITSU USB Sync                              |
 | [04c5:1330](https://linux-hardware.org?id=usb:04c5-1330) | Fujitsu              | Qualcomm Atheros AR9462 Bluetooth 4.0 + HS... |
+| [04c5:161f](https://linux-hardware.org?id=usb:04c5-161f) | Fujitsu              | Realtek Bluetooth Adapter                     |
 | [04c8:0720](https://linux-hardware.org?id=usb:04c8-0720) | Konica               | Digital Color Camera                          |
 | [04c8:0729](https://linux-hardware.org?id=usb:04c8-0729) | Konica               | Revio C2 Digital Camera                       |
 | [04ca:2003](https://linux-hardware.org?id=usb:04ca-2003) | Lite-On Technology   | Broadcom Bluetooth 4.0 USB                    |
@@ -866,6 +867,7 @@ This table is compiled from the [list of supported devices in Linux](https://git
 | [04dd:9032](https://linux-hardware.org?id=usb:04dd-9032) | Sharp                | Zaurus SL-6000                                |
 | [04dd:9050](https://linux-hardware.org?id=usb:04dd-9050) | Sharp                | Zaurus C-860 PDA                              |
 | [04dd:9123](https://linux-hardware.org?id=usb:04dd-9123) | Sharp                | W-ZERO3 ES Smartphone                         |
+| [04e2:1410](https://linux-hardware.org?id=usb:04e2-1410) | Exar                 | XR21V1410 USB-UART IC                         |
 | [04e6:5591](https://linux-hardware.org?id=usb:04e6-5591) | SCM Microsystems     | SCL3711-NFC&RW                                |
 | [04e7:0009](https://linux-hardware.org?id=usb:04e7-0009) | Elo TouchSystems     | 4000U CarrollTouch Touchmonitor Interface     |
 | [04e7:0020](https://linux-hardware.org?id=usb:04e7-0020) | Elo TouchSystems     | Touchscreen Interface (2700)                  |
@@ -1604,7 +1606,7 @@ This table is compiled from the [list of supported devices in Linux](https://git
 | [067b:0307](https://linux-hardware.org?id=usb:067b-0307) | Prolific Technology  | Motorola Serial Adapter                       |
 | [067b:04bb](https://linux-hardware.org?id=usb:067b-04bb) | Prolific Technology  | PL2303 Serial (IODATA USB-RSAQ2)              |
 | [067b:0611](https://linux-hardware.org?id=usb:067b-0611) | Prolific Technology  | AlDiga AL-11U Quad-band GSM/GPRS/EDGE modem   |
-| [067b:2303](https://linux-hardware.org?id=usb:067b-2303) | Prolific Technology  | PL2303 Serial Port                            |
+| [067b:2303](https://linux-hardware.org?id=usb:067b-2303) | Prolific Technology  | PL2303 Serial Port / Mobile Action MA-8910P   |
 | [067b:2304](https://linux-hardware.org?id=usb:067b-2304) | Prolific Technology  | Prolific USB-to-Serial Comm Port              |
 | [067b:25a1](https://linux-hardware.org?id=usb:067b-25a1) | Prolific Technology  | PL25A1 Host-Host Bridge                       |
 | [067b:aaa0](https://linux-hardware.org?id=usb:067b-aaa0) | Prolific Technology  | Prolific Pharos                               |
@@ -1638,6 +1640,7 @@ This table is compiled from the [list of supported devices in Linux](https://git
 | [06b9:0120](https://linux-hardware.org?id=usb:06b9-0120) | Alcatel Telecom      | SpeedTouch 120g 802.11g Wireless Adapter [... |
 | [06b9:0121](https://linux-hardware.org?id=usb:06b9-0121) | Alcatel Telecom      | SpeedTouch 121g Wireless Dongle               |
 | [06b9:4061](https://linux-hardware.org?id=usb:06b9-4061) | Alcatel Telecom      | SpeedTouch ISDN or ADSL Modem                 |
+| [06bd:0001](https://linux-hardware.org?id=usb:06bd-0001) | AGFA-Gevaert NV      | SnapScan 1212U                                |
 | [06bd:0404](https://linux-hardware.org?id=usb:06bd-0404) | AGFA-Gevaert NV      | ePhoto CL20 Camera                            |
 | [06bd:2061](https://linux-hardware.org?id=usb:06bd-2061) | AGFA-Gevaert NV      | SnapScan 1212U (?)                            |
 | [06be:0800](https://linux-hardware.org?id=usb:06be-0800) | AME Optimedia Tec... | Optimedia Camera                              |
@@ -1707,6 +1710,7 @@ This table is compiled from the [list of supported devices in Linux](https://git
 | [06f8:3009](https://linux-hardware.org?id=usb:06f8-3009) | Guillemot            | Hercules Classic Link                         |
 | [06f8:300c](https://linux-hardware.org?id=usb:06f8-300c) | Guillemot            | Hercules Classic Silver                       |
 | [06f8:301b](https://linux-hardware.org?id=usb:06f8-301b) | Guillemot            | Hercules Link                                 |
+| [06f8:b000](https://linux-hardware.org?id=usb:06f8-b000) | Guillemot            | Hercules DJ Console                           |
 | [06f8:e000](https://linux-hardware.org?id=usb:06f8-e000) | Guillemot            | HWGUSB2-54 WLAN                               |
 | [06f8:e010](https://linux-hardware.org?id=usb:06f8-e010) | Guillemot            | HWGUSB2-54-LB                                 |
 | [06f8:e020](https://linux-hardware.org?id=usb:06f8-e020) | Guillemot            | HWGUSB2-54V2-AP                               |
@@ -1721,6 +1725,7 @@ This table is compiled from the [list of supported devices in Linux](https://git
 | [0707:ee13](https://linux-hardware.org?id=usb:0707-ee13) | Standard Microsys... | SMC2862W-G v2 EZ Connect 802.11g Adapter [... |
 | [0710:0001](https://linux-hardware.org?id=usb:0710-0001) | Connect Tech         | WhiteHeat (fake ID)                           |
 | [0710:8001](https://linux-hardware.org?id=usb:0710-8001) | Connect Tech         | WhiteHeat                                     |
+| [0711:0179](https://linux-hardware.org?id=usb:0711-0179) | Magic Control Tec... | USB 3.0 to Gigabit Ethernet Adapter           |
 | [0711:0200](https://linux-hardware.org?id=usb:0711-0200) | Magic Control Tec... | BAY-3U1S1P Serial Port                        |
 | [0711:0210](https://linux-hardware.org?id=usb:0711-0210) | Magic Control Tec... | MCT1S Serial Port                             |
 | [0711:0230](https://linux-hardware.org?id=usb:0711-0230) | Magic Control Tec... | MCT-232 Serial Port                           |
@@ -2058,6 +2063,7 @@ This table is compiled from the [list of supported devices in Linux](https://git
 | [0930:070b](https://linux-hardware.org?id=usb:0930-070b) | Toshiba              | Pocket PC e800 Series                         |
 | [0930:0a07](https://linux-hardware.org?id=usb:0930-0a07) | Toshiba              | WLM-10U1 802.11abgn Wireless Adapter [Rali... |
 | [0930:0a08](https://linux-hardware.org?id=usb:0930-0a08) | Toshiba              | WLM-20U2/GN-1080 802.11abgn Wireless Adapt... |
+| [0930:0a13](https://linux-hardware.org?id=usb:0930-0a13) | Toshiba              | AX88179 Gigabit Ethernet [Toshiba]            |
 | [0930:1302](https://linux-hardware.org?id=usb:0930-1302) | Toshiba              | Wireless Broadband (3G HSDPA) SM-Bus Minic... |
 | [0930:130b](https://linux-hardware.org?id=usb:0930-130b) | Toshiba              | F3507g Mobile Broadband Module                |
 | [0930:130c](https://linux-hardware.org?id=usb:0930-130c) | Toshiba              | F3607gw Mobile Broadband Module               |
@@ -2105,6 +2111,7 @@ This table is compiled from the [list of supported devices in Linux](https://git
 | [093c:0701](https://linux-hardware.org?id=usb:093c-0701) | Intrepid Control ... | NeoVI Blue vehicle bus interface              |
 | [094b:0001](https://linux-hardware.org?id=usb:094b-0001) | Linkup Systems       | neonode N2                                    |
 | [0951:0008](https://linux-hardware.org?id=usb:0951-0008) | Kingston Technology  | Ethernet                                      |
+| [0951:1666](https://linux-hardware.org?id=usb:0951-1666) | Kingston Technology  | DataTraveler 100 G3/G4/SE9 G2/50              |
 | [0959:2bd0](https://linux-hardware.org?id=usb:0959-2bd0) | Cologne Chip         | Intelligent ISDN (Ver. 3.60.04) [HFC-S]       |
 | [095a:3003](https://linux-hardware.org?id=usb:095a-3003) | Portsmith            | Express Ethernet                              |
 | [0960:0065](https://linux-hardware.org?id=usb:0960-0065) |                      | BCOM USB Sync 0065                            |
@@ -2118,12 +2125,12 @@ This table is compiled from the [list of supported devices in Linux](https://git
 | [099e:4000](https://linux-hardware.org?id=usb:099e-4000) | Trimble Navigation   | TDS Data Collector                            |
 | [09aa:1000](https://linux-hardware.org?id=usb:09aa-1000) | Intersil             | Prism GT 802.11b/g Adapter                    |
 | [09aa:3642](https://linux-hardware.org?id=usb:09aa-3642) | Intersil             | Prism 2.x 802.11b Adapter                     |
-| [09bf:00c0](https://linux-hardware.org?id=usb:09bf-00c0) | Auerswald GmbH & ... | COMpact 2104 ISDN PBX                         |
-| [09bf:00db](https://linux-hardware.org?id=usb:09bf-00db) | Auerswald GmbH & ... | COMpact 4410/2206 ISDN                        |
-| [09bf:00dc](https://linux-hardware.org?id=usb:09bf-00dc) | Auerswald GmbH & ... | COMpact 4406 DSL (PBX)                        |
-| [09bf:00dd](https://linux-hardware.org?id=usb:09bf-00dd) | Auerswald GmbH & ... | COMpact 2204 (PBX)                            |
-| [09bf:00f1](https://linux-hardware.org?id=usb:09bf-00f1) | Auerswald GmbH & ... | COMfort 2000 (System telephone)               |
-| [09bf:00f2](https://linux-hardware.org?id=usb:09bf-00f2) | Auerswald GmbH & ... | COMfort 1200 (System telephone)               |
+| [09bf:00c0](https://linux-hardware.org?id=usb:09bf-00c0) | Auerswald            | COMpact 2104 ISDN PBX                         |
+| [09bf:00db](https://linux-hardware.org?id=usb:09bf-00db) | Auerswald            | COMpact 4410/2206 ISDN                        |
+| [09bf:00dc](https://linux-hardware.org?id=usb:09bf-00dc) | Auerswald            | COMpact 4406 DSL (PBX)                        |
+| [09bf:00dd](https://linux-hardware.org?id=usb:09bf-00dd) | Auerswald            | COMpact 2204 (PBX)                            |
+| [09bf:00f1](https://linux-hardware.org?id=usb:09bf-00f1) | Auerswald            | COMfort 2000 (System telephone)               |
+| [09bf:00f2](https://linux-hardware.org?id=usb:09bf-00f2) | Auerswald            | COMfort 1200 (System telephone)               |
 | [09c0:0202](https://linux-hardware.org?id=usb:09c0-0202) | Genpix Electronics   | 8PSK DVB-S tuner                              |
 | [09c0:0203](https://linux-hardware.org?id=usb:09c0-0203) | Genpix Electronics   | Skywalker-1 DVB-S tuner                       |
 | [09c0:0204](https://linux-hardware.org?id=usb:09c0-0204) | Genpix Electronics   | Skywalker-CW3K DVB-S tuner                    |
@@ -2329,6 +2336,7 @@ This table is compiled from the [list of supported devices in Linux](https://git
 | [0b05:180b](https://linux-hardware.org?id=usb:0b05-180b) | ASUSTek Computer     | ASUS USB-N53_V2 USB Wireless Adapter          |
 | [0b05:1833](https://linux-hardware.org?id=usb:0b05-1833) | ASUSTek Computer     | ASUS USB-AC54 USB Wireless adapter            |
 | [0b05:185c](https://linux-hardware.org?id=usb:0b05-185c) | ASUSTek Computer     | Bluetooth Controller                          |
+| [0b05:18ef](https://linux-hardware.org?id=usb:0b05-18ef) | ASUSTek Computer     | Realtek Bluetooth Adapter                     |
 | [0b05:18f0](https://linux-hardware.org?id=usb:0b05-18f0) | ASUSTek Computer     | Realtek 8188EUS [USB-N10 Nano]                |
 | [0b05:4200](https://linux-hardware.org?id=usb:0b05-4200) | ASUSTek Computer     | ASUS USB Sync                                 |
 | [0b05:4201](https://linux-hardware.org?id=usb:0b05-4201) | ASUSTek Computer     | ASUS USB Sync                                 |
@@ -2603,7 +2611,9 @@ This table is compiled from the [list of supported devices in Linux](https://git
 | [0bda:8724](https://linux-hardware.org?id=usb:0bda-8724) | Realtek Semicondu... | Realtek RTL8723U Wireless LAN 802.11n USB ... |
 | [0bda:8754](https://linux-hardware.org?id=usb:0bda-8754) | Realtek Semicondu... | Realtek Bluetooth 4.0 + High Speed Chip       |
 | [0bda:b009](https://linux-hardware.org?id=usb:0bda-b009) | Realtek Semicondu... | Realtek Bluetooth 4.2 Adapter                 |
+| [0bda:b00c](https://linux-hardware.org?id=usb:0bda-b00c) | Realtek Semicondu... | Realtek Bluetooth 4.2 Adapter                 |
 | [0bda:b720](https://linux-hardware.org?id=usb:0bda-b720) | Realtek Semicondu... | RTL8723BU 802.11b/g/n WLAN Adapter            |
+| [0bda:c123](https://linux-hardware.org?id=usb:0bda-c123) | Realtek Semicondu... | Realtek Bluetooth Adapter                     |
 | [0bdb:1002](https://linux-hardware.org?id=usb:0bdb-1002) | Ericsson Business... | Bluetooth Device 1.2                          |
 | [0bdb:1049](https://linux-hardware.org?id=usb:0bdb-1049) | Ericsson Business... | C3607w Mobile Broadband Module                |
 | [0bdb:1900](https://linux-hardware.org?id=usb:0bdb-1900) | Ericsson Business... | F3507g Mobile Broadband Module                |
@@ -3117,7 +3127,7 @@ This table is compiled from the [list of supported devices in Linux](https://git
 | [1025:005f](https://linux-hardware.org?id=usb:1025-005f) | Hyper-Paltek         | USB DVB-T device                              |
 | [102c:6151](https://linux-hardware.org?id=usb:102c-6151) | Etoms Electronics    | Q-Cam Sangha CIF                              |
 | [102c:6251](https://linux-hardware.org?id=usb:102c-6251) | Etoms Electronics    | Q-Cam VGA                                     |
-| [103c:1629](https://linux-hardware.org?id=usb:103c-1629) |                      | Realtek RTL8188CU Wireless LAN 802.11n USB... |
+| [103c:1629](https://linux-hardware.org?id=usb:103c-1629) | Maker 103C           | Realtek RTL8188CU Wireless LAN 802.11n USB... |
 | [103e:03e8](https://linux-hardware.org?id=usb:103e-03e8) | TTi                  | USB TTi PSU Serial Interface                  |
 | [1044:7001](https://linux-hardware.org?id=usb:1044-7001) | Chu Yuen Enterprise  | Gigabyte U7000 DVB-T tuner                    |
 | [1044:7002](https://linux-hardware.org?id=usb:1044-7002) | Chu Yuen Enterprise  | Gigabyte U8000 DVB-T tuner                    |
@@ -3330,6 +3340,7 @@ This table is compiled from the [list of supported devices in Linux](https://git
 | [1199:9057](https://linux-hardware.org?id=usb:1199-9057) | Sierra Wireless      | Gobi 9x15 Multimode 3G/4G LTE Modem (IP pa... |
 | [1199:9060](https://linux-hardware.org?id=usb:1199-9060) | Sierra Wireless      | Sierra Wireless QDLoader Port                 |
 | [1199:9061](https://linux-hardware.org?id=usb:1199-9061) | Sierra Wireless      | Sierra Wireless DM Port                       |
+| [1199:9062](https://linux-hardware.org?id=usb:1199-9062) | Sierra Wireless      | Sierra Wireless QDLoader Port                 |
 | [1199:9063](https://linux-hardware.org?id=usb:1199-9063) | Sierra Wireless      | Sierra Wireless DM Port                       |
 | [1199:9071](https://linux-hardware.org?id=usb:1199-9071) | Sierra Wireless      | AirPrime MC7455 3G/4G LTE Modem               |
 | [1199:9078](https://linux-hardware.org?id=usb:1199-9078) | Sierra Wireless      | Sierra Wireless EM7455 Qualcomm Snapdragon    |
@@ -3587,6 +3598,7 @@ This table is compiled from the [list of supported devices in Linux](https://git
 | [13d3:3501](https://linux-hardware.org?id=usb:13d3-3501) | IMC Networks         | Qualcomm Atheros Bluetooth 4.1                |
 | [13d3:3526](https://linux-hardware.org?id=usb:13d3-3526) | IMC Networks         | Bluetooth Radio                               |
 | [13d3:3548](https://linux-hardware.org?id=usb:13d3-3548) | IMC Networks         | Realtek Bluetooth Adapter                     |
+| [13d3:3549](https://linux-hardware.org?id=usb:13d3-3549) | IMC Networks         | Realtek Bluetooth Adapter                     |
 | [13d3:5103](https://linux-hardware.org?id=usb:13d3-5103) | IMC Networks         | USB2.0 UVC 1.3M WebCam                        |
 | [13dc:5310](https://linux-hardware.org?id=usb:13dc-5310) | ALEREON              | Alereon WUSB Radio Controller Interface       |
 | [1404:cddc](https://linux-hardware.org?id=usb:1404-cddc) | Fundamental Software | Dongle                                        |
@@ -3636,7 +3648,7 @@ This table is compiled from the [list of supported devices in Linux](https://git
 | [1435:0828](https://linux-hardware.org?id=usb:1435-0828) | Wistron NeWeb        | AR5523                                        |
 | [1435:0829](https://linux-hardware.org?id=usb:1435-0829) | Wistron NeWeb        | AR5523 (no firmware)                          |
 | [1453:4026](https://linux-hardware.org?id=usb:1453-4026) | Radio Shack          | 26-183 Serial Cable                           |
-| [1457:5118](https://linux-hardware.org?id=usb:1457-5118) | First Internation... | OpenMoko Neo1973 Debug board (V2+)            |
+| [1457:5118](https://linux-hardware.org?id=usb:1457-5118) | FIC                  | OpenMoko Neo1973 Debug board (V2+)            |
 | [145f:010c](https://linux-hardware.org?id=usb:145f-010c) | Trust                | VideoMate DVB-U2000 firmware loader           |
 | [145f:013c](https://linux-hardware.org?id=usb:145f-013c) | Trust                | Trust Webcam Live                             |
 | [145f:013d](https://linux-hardware.org?id=usb:145f-013d) | Trust                | PC Camera (SN9C201 + OV7660)                  |
@@ -3717,8 +3729,8 @@ This table is compiled from the [list of supported devices in Linux](https://git
 | [14f7:0003](https://linux-hardware.org?id=usb:14f7-0003) | TechniSat Digital    | CableStar Combo HD CI                         |
 | [14f7:0004](https://linux-hardware.org?id=usb:14f7-0004) | TechniSat Digital    | AirStar TeleStick 2                           |
 | [14f7:0500](https://linux-hardware.org?id=usb:14f7-0500) | TechniSat Digital    | DVB-PC TV Star HD                             |
-| [1508:1001](https://linux-hardware.org?id=usb:1508-1001) |                      | Nodecom USB Composite Device 1001             |
-| [1509:9242](https://linux-hardware.org?id=usb:1509-9242) | First Internation... | eHome Infrared Transceiver                    |
+| [1508:1001](https://linux-hardware.org?id=usb:1508-1001) | Fibocom              | Nodecom USB Composite Device 1001             |
+| [1509:9242](https://linux-hardware.org?id=usb:1509-9242) | FIC                  | eHome Infrared Transceiver                    |
 | [1516:8628](https://linux-hardware.org?id=usb:1516-8628) | CompUSA              | Pen Drive                                     |
 | [1519:0443](https://linux-hardware.org?id=usb:1519-0443) | Comneon              | Telit LN930                                   |
 | [152d:0310](https://linux-hardware.org?id=usb:152d-0310) | JMicron Technology   | JMicron 310 USB Video Camera (SuYin)          |
@@ -4171,6 +4183,7 @@ This table is compiled from the [list of supported devices in Linux](https://git
 | [1a40:0101](https://linux-hardware.org?id=usb:1a40-0101) | Terminus Technology  | Hub                                           |
 | [1a61:3410](https://linux-hardware.org?id=usb:1a61-3410) | Abbott Diabetes Care | CoPilot System Cable                          |
 | [1a72:1008](https://linux-hardware.org?id=usb:1a72-1008) | Physik Instrumente   | E-861 PiezoWalk NEXACT Controller             |
+| [1a86:5512](https://linux-hardware.org?id=usb:1a86-5512) | QinHeng Electronics  | CH341 in EPP/MEM/I2C mode, EPP/I2C adapter    |
 | [1a86:5523](https://linux-hardware.org?id=usb:1a86-5523) | QinHeng Electronics  | CH341 in serial mode, usb to serial port c... |
 | [1a86:7522](https://linux-hardware.org?id=usb:1a86-7522) | QinHeng Electronics  | USB-Serial CH340K                             |
 | [1a86:7523](https://linux-hardware.org?id=usb:1a86-7523) | QinHeng Electronics  | CH340 serial converter                        |
@@ -4522,6 +4535,7 @@ This table is compiled from the [list of supported devices in Linux](https://git
 | [2040:d8e3](https://linux-hardware.org?id=usb:2040-d8e3) | Hauppauge            | Dell Digital TV Receiver                      |
 | [2040:d8e4](https://linux-hardware.org?id=usb:2040-d8e4) | Hauppauge            | Dell Digital TV Receiver                      |
 | [2040:d8ff](https://linux-hardware.org?id=usb:2040-d8ff) | Hauppauge            | Dell Digital TV Receiver                      |
+| [2040:d900](https://linux-hardware.org?id=usb:2040-d900) | Hauppauge            | Hauppauge WinTV-NOVA SAT (Model 139000)       |
 | [2040:f5a0](https://linux-hardware.org?id=usb:2040-f5a0) | Hauppauge            | WinTV MiniStick OEM                           |
 | [2040:f900](https://linux-hardware.org?id=usb:2040-f900) | Hauppauge            | WinTV-Ministick 2                             |
 | [20b7:0713](https://linux-hardware.org?id=usb:20b7-0713) | Qi Hardware          | Milkymist JTAG/serial                         |
@@ -4612,6 +4626,7 @@ This table is compiled from the [list of supported devices in Linux](https://git
 | [2639:0102](https://linux-hardware.org?id=usb:2639-0102) | Xsens                | Awinda Dongle                                 |
 | [2639:0200](https://linux-hardware.org?id=usb:2639-0200) | Xsens                | MTw                                           |
 | [2639:0300](https://linux-hardware.org?id=usb:2639-0300) | Xsens                | Motion Tracker Development Board              |
+| [2639:0301](https://linux-hardware.org?id=usb:2639-0301) | Xsens                | MTi Converter                                 |
 | [2639:d00d](https://linux-hardware.org?id=usb:2639-d00d) | Xsens                | Wireless Receiver                             |
 | [2717:4106](https://linux-hardware.org?id=usb:2717-4106) | Xiaomi               | MediaTek MT7601U [MI WiFi]                    |
 | [2770:905c](https://linux-hardware.org?id=usb:2770-905c) | NHJ                  | Che-Ez Snap SNAP-U/Digigr8/Soundstar TDC-35   |
@@ -4619,6 +4634,7 @@ This table is compiled from the [list of supported devices in Linux](https://git
 | [2770:913d](https://linux-hardware.org?id=usb:2770-913d) | NHJ                  | Camera                                        |
 | [2770:930b](https://linux-hardware.org?id=usb:2770-930b) | NHJ                  | CCD Webcam(PC370R)                            |
 | [2770:930c](https://linux-hardware.org?id=usb:2770-930c) | NHJ                  | CCD Webcam(PC370R)                            |
+| [27c6:5395](https://linux-hardware.org?id=usb:27c6-5395) | Shenzhen Goodix T... | Fingerprint Reader                            |
 | [2821:3300](https://linux-hardware.org?id=usb:2821-3300) | ASUSTek Computer     | WL-140 / Hawking HWU36D 802.11b Wireless A... |
 | [2833:0201](https://linux-hardware.org?id=usb:2833-0201) | Oculus VR            | Camera DK2                                    |
 | [2833:0211](https://linux-hardware.org?id=usb:2833-0211) | Oculus VR            | Rift CV1 Sensor                               |
@@ -4633,6 +4649,7 @@ This table is compiled from the [list of supported devices in Linux](https://git
 | [2c7c:0195](https://linux-hardware.org?id=usb:2c7c-0195) | Quectel Wireless ... | EG95 LTE modem                                |
 | [2c7c:0296](https://linux-hardware.org?id=usb:2c7c-0296) | Quectel Wireless ... | BG96 CAT-M1/NB-IoT modem                      |
 | [2c7c:0306](https://linux-hardware.org?id=usb:2c7c-0306) | Quectel Wireless ... | EG06/EP06/EM06 LTE-A modem                    |
+| [2ff8:3051](https://linux-hardware.org?id=usb:2ff8-3051) |                      | Realtek Bluetooth Adapter                     |
 | [2ff8:b011](https://linux-hardware.org?id=usb:2ff8-b011) |                      | Realtek Bluetooth Adapter                     |
 | [3011:b012](https://linux-hardware.org?id=usb:3011-b012) |                      | Prof 1100 TV Tuner                            |
 | [3034:7500](https://linux-hardware.org?id=usb:3034-7500) |                      | Prof 7500 BDA DVBS USB Device                 |
@@ -4813,6 +4830,8 @@ This table is compiled from the [list of supported devices in Linux](https://git
 | [8087:0025](https://linux-hardware.org?id=usb:8087-0025) | Intel                | Wireless-AC 9260 Bluetooth Adapter            |
 | [8087:0026](https://linux-hardware.org?id=usb:8087-0026) | Intel                | Intel Wireless Bluetooth                      |
 | [8087:0029](https://linux-hardware.org?id=usb:8087-0029) | Intel                | AX200 Bluetooth                               |
+| [8087:0032](https://linux-hardware.org?id=usb:8087-0032) | Intel                | Intel Wireless Bluetooth                      |
+| [8087:0033](https://linux-hardware.org?id=usb:8087-0033) | Intel                | Intel Wireless Bluetooth                      |
 | [8087:0716](https://linux-hardware.org?id=usb:8087-0716) | Intel                | Modem Flashloader                             |
 | [8087:07da](https://linux-hardware.org?id=usb:8087-07da) | Intel                | Centrino Bluetooth Wireless Transceiver       |
 | [8087:07dc](https://linux-hardware.org?id=usb:8087-07dc) | Intel                | Bluetooth wireless interface                  |
